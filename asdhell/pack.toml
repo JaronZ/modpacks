@@ -1,0 +1,16 @@
+name = "asdhell"
+author = "Jaron Zijlstra"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ecb7ef3c6ac4e95b4cb80977bfb4604e9b715031420f9d805247970e7bbe281f"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.94"
+
+[options]
+acceptable-game-versions = ["1.21.1"]
