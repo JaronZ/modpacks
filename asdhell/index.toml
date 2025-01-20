@@ -46,6 +46,11 @@ hash = "994adcafd5a982add4c02d9c636d93bd07501349a79829ec9bdf2d5bb931da90"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "7d3beb01c8698cfc8587666a2f27dd95423d3f3a881a4f706fe162c751ea3c9d"
+metafile = true
+
+[[files]]
 file = "mods/bibliocraft-legacy.pw.toml"
 hash = "df71b411c439fe95d979caabb3ae410f84e3718c890f02e7efc7bbf11c47add1"
 metafile = true
@@ -298,4 +303,9 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "d2e059ad3ef63ee21ed08e1765a1fc6437beb15bab9788bc19bd6e3f6377a8c9"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "86275a7226104a3d29d8118ee03f35fba7fbe36653121b60f3992836a20ce2db"
 metafile = true
