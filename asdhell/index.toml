@@ -339,3 +339,8 @@ metafile = true
 file = "mods/xaeros-minimap.pw.toml"
 hash = "c30f3d906645c33269354bc6585139854a8fac66f9dace3c044e185b7f9bb291"
 metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "34f4cf50c5c1780ceb558de500bddb313e1e09dac4fc5f8f2ef937ea1d682820"
+metafile = true
