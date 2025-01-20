@@ -41,6 +41,11 @@ hash = "86cb5262c8691d9f65a887053158ce12941506bb66049a17882add119cb9833d"
 metafile = true
 
 [[files]]
+file = "mods/chested-companions.pw.toml"
+hash = "e5d277e86c446a1488b1ff96012bb889fc15ba95b93fc4060153442e9488d190"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "3d38d89c5adddec6a9c1352e3c4ced3f0c80639f1f11da237aac883e629998e8"
 metafile = true
