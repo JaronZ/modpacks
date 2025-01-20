@@ -161,6 +161,16 @@ hash = "14f5f6da61dda647896f32564208da83b1a7245f13277c3d705c39414dc3495c"
 metafile = true
 
 [[files]]
+file = "mods/monolib.pw.toml"
+hash = "43eca221082cfb2d052040a652a74b4026a40c8b3b4cd98587346c82c48007ab"
+metafile = true
+
+[[files]]
+file = "mods/more-bows-and-arrows.pw.toml"
+hash = "849fc595156d9feaf5b38762fd0d6bea08e9e5b24071cf80f58e4f697639e631"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "4e907f6a193bd141cf0a0012fc3655b1e1b390b72f938cce01cec1327a13a0e5"
 metafile = true
