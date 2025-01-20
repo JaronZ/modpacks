@@ -20,7 +20,7 @@ jobs:
       modpack-folders: ${{ steps.list-modpacks.outputs.modpack-folders }}
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: List Modpacks
         id: list-modpacks
         run: |
