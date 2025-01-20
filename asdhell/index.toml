@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "5f92ee72ae4deb5e5ad3d77ec14101b33d35cb64a1aebdd0c3dc21f5cf3789ce"
+metafile = true
+
+[[files]]
 file = "mods/ae2-things-forge.pw.toml"
 hash = "67b76e29b60a2869859d15a85ff2ba4377a0a21c9ad57f3213ec866605ca04c5"
 metafile = true
@@ -86,6 +91,11 @@ hash = "abeec141489427fa86618399e93dbe82fbd26fdfb3b0aaad923264d2731419fd"
 metafile = true
 
 [[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "f619c1ed2e189f9d482d081411fccee4bd26c05cce52a5db914f1989303f080c"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "1dffb7b72d41c7457849c09715e662ae3aebcef1988ce8f6fc060c46170b1a4a"
 metafile = true
@@ -121,6 +131,31 @@ hash = "bc859d5e4a3902e3e74168234b1ac6a48fe84d1bc28d1f6fb6c93fdbbc307abd"
 metafile = true
 
 [[files]]
+file = "mods/immersive-lanterns.pw.toml"
+hash = "932c985b60d1ad9defb6544fb5aa7b3490be7b6497dc7537b640d2ee060275fa"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "4e907f6a193bd141cf0a0012fc3655b1e1b390b72f938cce01cec1327a13a0e5"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "05953528b550760efecc9834796d90177e09bd0d231ce814b43578e386468a73"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "cd6d5b32b5998752eedc0f86526567099435f0eb6c891097969583966fb5f303"
+metafile = true
+
+[[files]]
 file = "mods/terrablender-neoforge.pw.toml"
 hash = "d77e4dc337b6090358c1ef01b0f99a8357e5279443e0e23e511de1be865c01c9"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "d2e059ad3ef63ee21ed08e1765a1fc6437beb15bab9788bc19bd6e3f6377a8c9"
 metafile = true
