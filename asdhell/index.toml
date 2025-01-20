@@ -136,6 +136,11 @@ hash = "932c985b60d1ad9defb6544fb5aa7b3490be7b6497dc7537b640d2ee060275fa"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "8c67995762d429c4b4ef21e540597a7cf985462485ed53762a9643d88e694c93"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "4e907f6a193bd141cf0a0012fc3655b1e1b390b72f938cce01cec1327a13a0e5"
 metafile = true
