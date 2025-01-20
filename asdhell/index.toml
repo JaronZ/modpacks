@@ -286,6 +286,11 @@ hash = "aedf2d63eac9d47f5097bf5472e2f67bf7b2cf12d1ad6719e35e082cbd7acd5c"
 metafile = true
 
 [[files]]
+file = "mods/travelers-backpack.pw.toml"
+hash = "be6efeda40ebe9d0d43a3fe26f3ab65fdebdbf468e44ae337efcc5bb9d7d1e7d"
+metafile = true
+
+[[files]]
 file = "mods/txnilib.pw.toml"
 hash = "d2e059ad3ef63ee21ed08e1765a1fc6437beb15bab9788bc19bd6e3f6377a8c9"
 metafile = true
