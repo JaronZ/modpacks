@@ -211,6 +211,11 @@ hash = "b5be9033308bb88924ddbc0eb95011a6ad1674099f0db976ab5e05a28afc4971"
 metafile = true
 
 [[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
+metafile = true
+
+[[files]]
 file = "mods/nyfs-quivers.pw.toml"
 hash = "8d8d0dc543f337407d41de099708a300bc388b592a711be8efe19930e24f006a"
 metafile = true
