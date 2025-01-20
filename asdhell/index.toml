@@ -291,6 +291,11 @@ hash = "be6efeda40ebe9d0d43a3fe26f3ab65fdebdbf468e44ae337efcc5bb9d7d1e7d"
 metafile = true
 
 [[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "e04abf1c4077f5c2f13bf4926d2ae45273b1ae7c58ce070c04f6db7f66100b5e"
+metafile = true
+
+[[files]]
 file = "mods/txnilib.pw.toml"
 hash = "d2e059ad3ef63ee21ed08e1765a1fc6437beb15bab9788bc19bd6e3f6377a8c9"
 metafile = true
