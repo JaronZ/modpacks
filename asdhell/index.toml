@@ -241,6 +241,16 @@ hash = "37b4995a54dac426c6b4d68db86b358d99012fe3c0317ffdf555b6fb9e7078d1"
 metafile = true
 
 [[files]]
+file = "mods/sawmill.pw.toml"
+hash = "14a56d9eedd31713955e841ec9dcda1d4889c41726671b9477c5f6ebb5900448"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "217b02818696e5a621b280b94f6cfeb8d5e0a0766d8bd8359cfe0d7b5ad59fbe"
+metafile = true
+
+[[files]]
 file = "mods/sodium-options-api.pw.toml"
 hash = "05953528b550760efecc9834796d90177e09bd0d231ce814b43578e386468a73"
 metafile = true
