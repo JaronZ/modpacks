@@ -96,6 +96,11 @@ hash = "513eb1780758451f76422913a040e7a98d45660ad187e3b6701b8b500ffb4cde"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "35bad9f01671b5b4284ad547dab6635b2a029980c88d82007690e9232a5cb420"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "91bd23dd592b8587d094b5953eba29ec6529c1828bd3c85cf0ef6786f1be9e3b"
 metafile = true
