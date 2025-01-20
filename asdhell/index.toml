@@ -216,6 +216,11 @@ hash = "913bff5c93d76ab287916d4f2e0844abbd7124f3dcc84d1c242e85f114e92066"
 metafile = true
 
 [[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "b061c2855bf7b40a31f808481527e9b66bed637e5f486d0e9daeb87dfa5a9140"
+metafile = true
+
+[[files]]
 file = "mods/sodium-options-api.pw.toml"
 hash = "05953528b550760efecc9834796d90177e09bd0d231ce814b43578e386468a73"
 metafile = true
