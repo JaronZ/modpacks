@@ -146,6 +146,11 @@ hash = "c344b0630eedfa7f8ed24e7cb916e49c231df456c40d20fc2b5fc0b675fb6517"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-immersive-multiblocks.pw.toml"
+hash = "74e48fe428d18a31490b957a9f3ea8fa580843f49efd3b499903a35322c5cf2e"
+metafile = true
+
+[[files]]
 file = "mods/justhammers.pw.toml"
 hash = "8d228f190aeba34dec7759072f966e9a2b0f9485308c97bc747f6eee075ceeb2"
 metafile = true
