@@ -256,6 +256,11 @@ hash = "34d6c25dece2b5dea7c9c2374f041e55c66a0aea8f4ea20aacb165b869be1cc7"
 metafile = true
 
 [[files]]
+file = "mods/smelt-gear-back-to-ingots.pw.toml"
+hash = "8742facbe1cdbf60538695f4c785225342f492e3091eb2eda3eac36549c0761c"
+metafile = true
+
+[[files]]
 file = "mods/sodium-options-api.pw.toml"
 hash = "05953528b550760efecc9834796d90177e09bd0d231ce814b43578e386468a73"
 metafile = true
