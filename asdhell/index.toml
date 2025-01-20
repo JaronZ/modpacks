@@ -6,6 +6,11 @@ hash = "5f92ee72ae4deb5e5ad3d77ec14101b33d35cb64a1aebdd0c3dc21f5cf3789ce"
 metafile = true
 
 [[files]]
+file = "mods/ae2-jei-integration.pw.toml"
+hash = "0794a45bf4c6cf8c17aebca641c306a7a25334ecb654f959c55ab2c3e81bddd7"
+metafile = true
+
+[[files]]
 file = "mods/ae2-things-forge.pw.toml"
 hash = "67b76e29b60a2869859d15a85ff2ba4377a0a21c9ad57f3213ec866605ca04c5"
 metafile = true
