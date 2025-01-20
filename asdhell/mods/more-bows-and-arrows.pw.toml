@@ -1,0 +1,13 @@
+name = "More Bows and Arrows | Major Update Available!"
+filename = "more_bows_and_arrows-merged-1.21.1-4.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9d0dc537495c9287039394f5b5a0dac8a5ffd86c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5945677
+project-id = 888468
