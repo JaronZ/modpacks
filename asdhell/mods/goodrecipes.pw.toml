@@ -1,0 +1,13 @@
+name = "Good Recipes"
+filename = "goodrecipes-2.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a81821b16f6298160e775f0072d0831a5270f432"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6028329
+project-id = 1055858

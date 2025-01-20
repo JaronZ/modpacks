@@ -136,6 +136,11 @@ hash = "3d38d89c5adddec6a9c1352e3c4ced3f0c80639f1f11da237aac883e629998e8"
 metafile = true
 
 [[files]]
+file = "mods/goodrecipes.pw.toml"
+hash = "da685056c96f533df6664cade96202c381fbeaea9e928daa0ca0bbda99a3b92b"
+metafile = true
+
+[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "678a73946ad0708c24ee921f168a0cda9b410ce260a814f845f0223d8d861b57"
 metafile = true
