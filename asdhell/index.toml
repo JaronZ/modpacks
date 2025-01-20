@@ -334,3 +334,8 @@ metafile = true
 file = "mods/waystones.pw.toml"
 hash = "86275a7226104a3d29d8118ee03f35fba7fbe36653121b60f3992836a20ce2db"
 metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "c30f3d906645c33269354bc6585139854a8fac66f9dace3c044e185b7f9bb291"
+metafile = true
