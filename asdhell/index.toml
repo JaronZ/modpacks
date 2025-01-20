@@ -151,6 +151,11 @@ hash = "a936c96a7023325311cf34e8aa3f1aa1473c517b3bf4e608676a63e2f79ca55d"
 metafile = true
 
 [[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "0829f62963ed03811e1164551a1e9ad422991a67cb13849e9398efedab817f2c"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "4e907f6a193bd141cf0a0012fc3655b1e1b390b72f938cce01cec1327a13a0e5"
 metafile = true
