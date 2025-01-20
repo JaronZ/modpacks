@@ -116,6 +116,11 @@ hash = "678a73946ad0708c24ee921f168a0cda9b410ce260a814f845f0223d8d861b57"
 metafile = true
 
 [[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "bc859d5e4a3902e3e74168234b1ac6a48fe84d1bc28d1f6fb6c93fdbbc307abd"
+metafile = true
+
+[[files]]
 file = "mods/terrablender-neoforge.pw.toml"
 hash = "d77e4dc337b6090358c1ef01b0f99a8357e5279443e0e23e511de1be865c01c9"
 metafile = true
