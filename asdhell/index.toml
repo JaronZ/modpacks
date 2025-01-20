@@ -196,6 +196,11 @@ hash = "84a4358b7fef498b59edfd5ff2c0692f31468a3573d2d46c1e5a9e3df6227f68"
 metafile = true
 
 [[files]]
+file = "mods/pams-harvestcraft-2-fantasy.pw.toml"
+hash = "1499989d3b87ef4f810450db181be2a509b4a557f439039cbaa712342985ff1a"
+metafile = true
+
+[[files]]
 file = "mods/pams-harvestcraft-2-food-core.pw.toml"
 hash = "5b709a8de8e1ef072e8450a4bc2eedeae27908540fdbcce312522cb42c0c909a"
 metafile = true
