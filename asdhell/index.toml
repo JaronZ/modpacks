@@ -191,6 +191,11 @@ hash = "4e907f6a193bd141cf0a0012fc3655b1e1b390b72f938cce01cec1327a13a0e5"
 metafile = true
 
 [[files]]
+file = "mods/pams-harvestcraft-2-food-core.pw.toml"
+hash = "5b709a8de8e1ef072e8450a4bc2eedeae27908540fdbcce312522cb42c0c909a"
+metafile = true
+
+[[files]]
 file = "mods/sodium-options-api.pw.toml"
 hash = "05953528b550760efecc9834796d90177e09bd0d231ce814b43578e386468a73"
 metafile = true
