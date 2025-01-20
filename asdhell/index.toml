@@ -24,3 +24,8 @@ metafile = true
 file = "mods/ars-nouveau.pw.toml"
 hash = "963ba9f6927647a2a6debc8261e71d33d8bc7fb7b467c1a96f6324fdbc69f31f"
 metafile = true
+
+[[files]]
+file = "mods/bibliocraft-legacy.pw.toml"
+hash = "df71b411c439fe95d979caabb3ae410f84e3718c890f02e7efc7bbf11c47add1"
+metafile = true
