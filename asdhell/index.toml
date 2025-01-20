@@ -61,8 +61,18 @@ hash = "fe58ce8d8e88c67c395d76a0551d38fa59459e24fbb8ba85015f67d8fe2cc0ee"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "c8e5a828790c21fe78de966efc78c2790843780c62436108fc50a109b087b247"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "66c076b0fa7ff29d1b4094f4964add34f3e337bc602d9e62b5c8beed3ab31f4f"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "abeec141489427fa86618399e93dbe82fbd26fdfb3b0aaad923264d2731419fd"
 metafile = true
 
 [[files]]
