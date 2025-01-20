@@ -29,3 +29,18 @@ metafile = true
 file = "mods/bibliocraft-legacy.pw.toml"
 hash = "df71b411c439fe95d979caabb3ae410f84e3718c890f02e7efc7bbf11c47add1"
 metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "04be35a5d7af74f66030fe85da0b6955906e26f0b048e29e2cc90b5495402b1d"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "3d38d89c5adddec6a9c1352e3c4ced3f0c80639f1f11da237aac883e629998e8"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-neoforge.pw.toml"
+hash = "d77e4dc337b6090358c1ef01b0f99a8357e5279443e0e23e511de1be865c01c9"
+metafile = true
