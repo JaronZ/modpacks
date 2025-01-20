@@ -1,0 +1,13 @@
+name = "Gear & Tools Back To Ores"
+filename = "smelt_gear__tools_back_to_ingots-1.4.5-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "24e4e10d96507999fa64bc2f4f4eb241ff97c962"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6100328
+project-id = 1077691
