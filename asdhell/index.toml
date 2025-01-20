@@ -46,6 +46,11 @@ hash = "04be35a5d7af74f66030fe85da0b6955906e26f0b048e29e2cc90b5495402b1d"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "03891e2139991fd25a654a5e880219d2ce2971633e875de13be4b67603d97331"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "86cb5262c8691d9f65a887053158ce12941506bb66049a17882add119cb9833d"
 metafile = true
@@ -66,6 +71,11 @@ hash = "c8e5a828790c21fe78de966efc78c2790843780c62436108fc50a109b087b247"
 metafile = true
 
 [[files]]
+file = "mods/curios-continuation.pw.toml"
+hash = "728964f212cc592a2fc2ae5106e06893a0697568aa9983d164dc112821dc8fc6"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "66c076b0fa7ff29d1b4094f4964add34f3e337bc602d9e62b5c8beed3ab31f4f"
 metafile = true
@@ -73,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/double-doors.pw.toml"
 hash = "abeec141489427fa86618399e93dbe82fbd26fdfb3b0aaad923264d2731419fd"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "1dffb7b72d41c7457849c09715e662ae3aebcef1988ce8f6fc060c46170b1a4a"
 metafile = true
 
 [[files]]
