@@ -176,6 +176,11 @@ hash = "8d228f190aeba34dec7759072f966e9a2b0f9485308c97bc747f6eee075ceeb2"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "ddd652c67cff2556da0a8b06bae23b55ddd11668e9312176319decde4e3d8c97"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "a936c96a7023325311cf34e8aa3f1aa1473c517b3bf4e608676a63e2f79ca55d"
 metafile = true
