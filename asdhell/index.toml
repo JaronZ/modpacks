@@ -16,6 +16,11 @@ hash = "2d06664aa5261184037f060b8f4d8a4bca97edac77fe112d624952e5cbebf12a"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+metafile = true
+
+[[files]]
 file = "mods/ars-elemental.pw.toml"
 hash = "eb417049156155d60afa745a666910af82ded9d66697562320fd53b4901e9cd8"
 metafile = true
@@ -23,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "963ba9f6927647a2a6debc8261e71d33d8bc7fb7b467c1a96f6324fdbc69f31f"
+metafile = true
+
+[[files]]
+file = "mods/athena.pw.toml"
+hash = "994adcafd5a982add4c02d9c636d93bd07501349a79829ec9bdf2d5bb931da90"
 metafile = true
 
 [[files]]
@@ -43,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/chested-companions.pw.toml"
 hash = "e5d277e86c446a1488b1ff96012bb889fc15ba95b93fc4060153442e9488d190"
+metafile = true
+
+[[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "fe58ce8d8e88c67c395d76a0551d38fa59459e24fbb8ba85015f67d8fe2cc0ee"
 metafile = true
 
 [[files]]
