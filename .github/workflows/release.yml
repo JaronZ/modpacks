@@ -102,6 +102,14 @@ jobs:
           modpack: ${{ matrix.modpack }}
         if: ${{ steps.release-please.outputs.releases_created }}
 
+      - name: Set Mod Vendors
+        id: set-mod-vendors
+        run: |
+          [[ ! -z "${{ secrets.CURSEFORGE_TOKEN }}" && ! -z "${{ secrets.CURSEFORGE_ID }}" ]] && echo "curseforge=true" >> $GITHUB_OUTPUT || echo "curseforge=false" >> $GITHUB_OUTPUT
+          [[ ! -z "${{ secrets.MODRINTH_TOKEN }}" && ! -z "${{ secrets.MODRINTH_ID }}" ]] && echo "modrinth=true" >> $GITHUB_OUTPUT || echo "modrinth=false" >> $GITHUB_OUTPUT
+        shell: bash
+        if: ${{ steps.release-please.outputs.releases_created }}
+
       - name: Build Modpack
         uses: ./.github/actions/build
         with:
@@ -110,3 +118,20 @@ jobs:
           build-modrinth: ${{ env.default-release-modrinth }}
           build-curse: ${{ env.default-release-curseforge }}
         if: ${{ steps.release-please.outputs.releases_created }}
+
+      - name: Release Modpack to Vendors
+        uses: ./.github/actions/release
+        with:
+          modpack: ${{ matrix.modpack }}
+          release-tag: ${{ steps.tag.outputs.tag }}
+          loader: ${{ steps.parse.outputs.loader }}
+          game-version: ${{ steps.parse.outputs.game-version }}
+          upload-modrinth: ${{ steps.set-mod-vendors.outputs.modrinth }}
+          upload-curse: ${{ steps.set-mod-vendors.outputs.curseforge }}
+          MODRINTH_ID: ${{ secrets.MODRINTH_ID }}
+          MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
+          CURSEFORGE_ID: ${{ secrets.CURSEFORGE_ID }}
+          CURSEFORGE_TOKEN: ${{ secrets.CURSEFORGE_TOKEN }}
+        if: |
+          steps.release-please.outputs.releases_created &&
+          (steps.set-mod-vendors.outputs.modrinth || steps.set-mod-vendors.outputs.curseforge)
