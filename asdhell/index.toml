@@ -316,6 +316,11 @@ hash = "4e907f6a193bd141cf0a0012fc3655b1e1b390b72f938cce01cec1327a13a0e5"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "63c15603f35563fae4e7e024b0224335d6585e506d013d7ee7bd5401eafb6dc2"
+metafile = true
+
+[[files]]
 file = "mods/pams-harvestcraft-2-crops.pw.toml"
 hash = "84a4358b7fef498b59edfd5ff2c0692f31468a3573d2d46c1e5a9e3df6227f68"
 metafile = true
