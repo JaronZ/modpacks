@@ -16,6 +16,11 @@ hash = "67b76e29b60a2869859d15a85ff2ba4377a0a21c9ad57f3213ec866605ca04c5"
 metafile = true
 
 [[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "4259aabf5a2d850359fe86870ba988d59e6ca369aae3b6b94b148b4c97d13d18"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "03cfc62a5ba3d58c32aab89274e7a997dcadf77362fa8f01f6e09d358922a531"
 metafile = true
