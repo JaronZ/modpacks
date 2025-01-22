@@ -26,6 +26,11 @@ hash = "4259aabf5a2d850359fe86870ba988d59e6ca369aae3b6b94b148b4c97d13d18"
 metafile = true
 
 [[files]]
+file = "mods/almanac-lib.pw.toml"
+hash = "4a23eeb043648049dd1ef5d2cdabdba609602aa7c9ccc70bef8fd5c70d2d0c53"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "03cfc62a5ba3d58c32aab89274e7a997dcadf77362fa8f01f6e09d358922a531"
 metafile = true
@@ -223,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/leaky.pw.toml"
 hash = "5efd7e4e274eb0d4b3a1040a6799a3a774afb3423fc9c3d9ed75c372934c36f1"
+metafile = true
+
+[[files]]
+file = "mods/let-me-despawn.pw.toml"
+hash = "fb1b24ea980e4853bae9bf5c763dcc6c149d3246b5d8f4cbed4d5152caaef7a0"
 metafile = true
 
 [[files]]
