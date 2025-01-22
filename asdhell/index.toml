@@ -71,6 +71,11 @@ hash = "04be35a5d7af74f66030fe85da0b6955906e26f0b048e29e2cc90b5495402b1d"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "ba2007641b4d1c0d453301820a14a7631efc3833600d49871d7acddc522de450"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "03891e2139991fd25a654a5e880219d2ce2971633e875de13be4b67603d97331"
 metafile = true
@@ -221,6 +226,11 @@ hash = "14f5f6da61dda647896f32564208da83b1a7245f13277c3d705c39414dc3495c"
 metafile = true
 
 [[files]]
+file = "mods/max-health-fix.pw.toml"
+hash = "70db2eec093dadc990fe5862f9c3fe59a0d0de53542872eaccb5dc7f54be5fb1"
+metafile = true
+
+[[files]]
 file = "mods/monolib.pw.toml"
 hash = "43eca221082cfb2d052040a652a74b4026a40c8b3b4cd98587346c82c48007ab"
 metafile = true
@@ -283,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "b061c2855bf7b40a31f808481527e9b66bed637e5f486d0e9daeb87dfa5a9140"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "e517a8a6abeae0eb0975a716ed732d94fce82b61c5bfdfb457a0167e96ea1022"
 metafile = true
 
 [[files]]
