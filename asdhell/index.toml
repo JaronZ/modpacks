@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "ddd652c67cff2556da0a8b06bae23b55ddd11668e9312176319decde4e3d8c97"
+hash = "6e1eac80000f4ad2e8fb2abf2f0d4d10e11a8383bb1800d337e13184f6a18ca9"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/txnilib.pw.toml"
-hash = "d2e059ad3ef63ee21ed08e1765a1fc6437beb15bab9788bc19bd6e3f6377a8c9"
+hash = "7d50035fd4872855751c468f38eb1f76dc38abcf43d446fc7f370de9c25b4608"
 metafile = true
 
 [[files]]
