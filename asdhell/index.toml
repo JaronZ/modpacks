@@ -121,6 +121,11 @@ hash = "c8e5a828790c21fe78de966efc78c2790843780c62436108fc50a109b087b247"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "6da19e35668bad6ca56cbdfce582cb04b6312ca3e2b35670fbe323ff5ff2f80e"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "92d8711662b4e3fd42a57254571aca9f0b33a10bb7492a8fba59b22e78f688e6"
 metafile = true
