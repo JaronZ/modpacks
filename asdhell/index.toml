@@ -206,6 +206,11 @@ hash = "678a73946ad0708c24ee921f168a0cda9b410ce260a814f845f0223d8d861b57"
 metafile = true
 
 [[files]]
+file = "mods/im-fast.pw.toml"
+hash = "a7b43a5e9c934e22bebe3298ae5ec54bbf098f3506703a1581f901e6896797ff"
+metafile = true
+
+[[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "bc859d5e4a3902e3e74168234b1ac6a48fe84d1bc28d1f6fb6c93fdbbc307abd"
 metafile = true
