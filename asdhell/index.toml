@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/replantingcrops.json5"
+hash = "d39968405843bb1be5866c08dcd9fb13349a7b9863f7f475aac45abc263bde94"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "5f92ee72ae4deb5e5ad3d77ec14101b33d35cb64a1aebdd0c3dc21f5cf3789ce"
 metafile = true
@@ -62,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "4696bddb459f4dade3c1be79d05e53566a975ae675d2e80a6e2760edbe223a45"
+hash = "d1be372fd9cb5d1e39017a4c72ddcacfcbdc8d0aecd0b6715786246db0caafd6"
 metafile = true
 
 [[files]]
@@ -107,12 +111,12 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
-hash = "5488558b52cdbacdc991c1f76b658c49a3c40f53ddf49a22df988d516bcdcfc7"
+hash = "dd5d363623f59e8cd06f16e56bcd3b51a8cbfbd5fe52218dc78ed589ebd55efe"
 metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
+hash = "3f47b68f174a4719ef9b099ea12732a4cb840be03635e91dd6c24515f4cf6814"
 metafile = true
 
 [[files]]
@@ -147,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-view.pw.toml"
-hash = "d691dae878d32f7b64daafd1ded247acf8a20b34228a1ed06c6320357b6c2672"
+hash = "34f59271fa56d359df800d96973f534b88764785fd1cc80b0e1fc0e811a7d1ac"
 metafile = true
 
 [[files]]
@@ -177,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-async-world-save-forge-fabric.pw.toml"
-hash = "f680363693a3695eeb927bcd02d4406f8cb54a4378efdf6804bb5ae97031f200"
+hash = "69844bc75e1d96aff969fdb0773d9fb3d55328b691038bf9a17714221718a3c8"
 metafile = true
 
 [[files]]
@@ -207,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/im-fast.pw.toml"
-hash = "a7b43a5e9c934e22bebe3298ae5ec54bbf098f3506703a1581f901e6896797ff"
+hash = "b5da7f7ee52da1da28934c7bc24a2e770294d9259acee664685f8fd6dbad9a5b"
 metafile = true
 
 [[files]]
@@ -242,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaky.pw.toml"
-hash = "5efd7e4e274eb0d4b3a1040a6799a3a774afb3423fc9c3d9ed75c372934c36f1"
+hash = "ca0f09b460fe950fa6157e08718e3b63d3fae97be8700ddbd4d1c9e7bd3e65d2"
 metafile = true
 
 [[files]]
@@ -252,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/limited-chunkloading.pw.toml"
-hash = "fb88337b7840e3c06138a63aca65fbaedf6bb8aaca6fd91bc8154d3c27db7846"
+hash = "a0fdf464a98886c21a8141a76e3f6f6da45b030d3d60b238596ee483dc14438c"
 metafile = true
 
 [[files]]
@@ -277,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/max-health-fix.pw.toml"
-hash = "70db2eec093dadc990fe5862f9c3fe59a0d0de53542872eaccb5dc7f54be5fb1"
+hash = "389ed4a50e4fd12156d40d6e5d0aa7fc988196d8fbc3fb10261f4f3523038ee2"
 metafile = true
 
 [[files]]
@@ -302,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
+hash = "6f3df134c78b1446b01a369eccc0a8dde11f5debec853dfec334b7fb4beb5026"
 metafile = true
 
 [[files]]
@@ -357,12 +361,12 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "e517a8a6abeae0eb0975a716ed732d94fce82b61c5bfdfb457a0167e96ea1022"
+hash = "ecc090065d2c21b21a2669bfa659bd052706c52b315f2d8d7d1285ebc294e1ba"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "6a48780ffd4bc3b941f81232c84034aba5ff7645ea635c604de6df71e6596bb3"
+hash = "e5a88eeea38105e024dc8c8849e28d90af25cec68f1d0f6716796fe9746bddd2"
 metafile = true
 
 [[files]]
@@ -442,10 +446,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "c30f3d906645c33269354bc6585139854a8fac66f9dace3c044e185b7f9bb291"
+hash = "539f382bae229c5ae70843083f7052a40da9c9dfc66a85b96040747f8cfca580"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "34f4cf50c5c1780ceb558de500bddb313e1e09dac4fc5f8f2ef937ea1d682820"
+hash = "137a180bc971f08ad1737d26214aa2f9a35c03c055c8236d8a5fb792a0d4ce03"
 metafile = true
