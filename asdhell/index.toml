@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/accessories.json5"
+hash = "61c60ddbbd318ae6f63619f2bd002db682f74c39467f1ac48c9e956753563463"
+
+[[files]]
 file = "config/replantingcrops.json5"
 hash = "d39968405843bb1be5866c08dcd9fb13349a7b9863f7f475aac45abc263bde94"
 
