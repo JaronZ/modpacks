@@ -5,6 +5,14 @@ file = "config/replantingcrops.json5"
 hash = "d39968405843bb1be5866c08dcd9fb13349a7b9863f7f475aac45abc263bde94"
 
 [[files]]
+file = "defaultconfigs/ftbchunks/client-config.snbt"
+hash = "3acd953e8daf2c3cd39911054204bd7b0c27127db1b0d9dfd289b8d9891900f4"
+
+[[files]]
+file = "defaultconfigs/ftbchunks/ftbchunks-world.snbt"
+hash = "0a17dda59e2c95fa6faa754b57a4b401ea082484469b0f1e1c5d475bf4ecccbc"
+
+[[files]]
 file = "defaultconfigs/ftblibrary/ftblibrary-client.snbt"
 hash = "c610f9af8858cbe67682b4f0fb6b08f915124d25e56e52b85b1dad9722d4c514"
 
