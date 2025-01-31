@@ -5,6 +5,10 @@ file = "config/replantingcrops.json5"
 hash = "d39968405843bb1be5866c08dcd9fb13349a7b9863f7f475aac45abc263bde94"
 
 [[files]]
+file = "defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt"
+hash = "f99feb117be3154bc935d941116d667c2992a4dc3929d0d329d349f7d0e96416"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "5f92ee72ae4deb5e5ad3d77ec14101b33d35cb64a1aebdd0c3dc21f5cf3789ce"
 metafile = true
