@@ -5,6 +5,10 @@ file = "config/replantingcrops.json5"
 hash = "d39968405843bb1be5866c08dcd9fb13349a7b9863f7f475aac45abc263bde94"
 
 [[files]]
+file = "defaultconfigs/ftblibrary/ftblibrary-client.snbt"
+hash = "c610f9af8858cbe67682b4f0fb6b08f915124d25e56e52b85b1dad9722d4c514"
+
+[[files]]
 file = "defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt"
 hash = "f99feb117be3154bc935d941116d667c2992a4dc3929d0d329d349f7d0e96416"
 
