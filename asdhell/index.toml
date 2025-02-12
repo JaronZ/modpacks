@@ -470,6 +470,11 @@ hash = "ecc090065d2c21b21a2669bfa659bd052706c52b315f2d8d7d1285ebc294e1ba"
 metafile = true
 
 [[files]]
+file = "mods/railcraft-reborn.pw.toml"
+hash = "9356edfc85cf9a16dd9422ac10ba2823b34bf2ab6168cceb026ce4787733788c"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "e5a88eeea38105e024dc8c8849e28d90af25cec68f1d0f6716796fe9746bddd2"
 metafile = true
