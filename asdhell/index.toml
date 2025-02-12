@@ -360,6 +360,11 @@ hash = "14f5f6da61dda647896f32564208da83b1a7245f13277c3d705c39414dc3495c"
 metafile = true
 
 [[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "800e8416e1fbf50d1dbcf726c3cc18a1c0611338b06b24c2c837235fc8aea55a"
+metafile = true
+
+[[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "389ed4a50e4fd12156d40d6e5d0aa7fc988196d8fbc3fb10261f4f3523038ee2"
 metafile = true
