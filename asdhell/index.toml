@@ -340,6 +340,11 @@ hash = "23138d6848d524b31ccbd6f32d7295e2e59ef2d851ad0a95a5ddc29888948eec"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "608da91c5418fb9a2b3c12a9cf55692a220be6249924382fb0d70729430ee9cf"
+metafile = true
+
+[[files]]
 file = "mods/monolib.pw.toml"
 hash = "43eca221082cfb2d052040a652a74b4026a40c8b3b4cd98587346c82c48007ab"
 metafile = true
@@ -472,6 +477,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender-neoforge.pw.toml"
 hash = "d77e4dc337b6090358c1ef01b0f99a8357e5279443e0e23e511de1be865c01c9"
+metafile = true
+
+[[files]]
+file = "mods/theurgy.pw.toml"
+hash = "ca5f036c97e2138e794390f213c51e576c0234e093f79fdb8e1dd6465569f052"
 metafile = true
 
 [[files]]
