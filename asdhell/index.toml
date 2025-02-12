@@ -590,6 +590,11 @@ hash = "7d50035fd4872855751c468f38eb1f76dc38abcf43d446fc7f370de9c25b4608"
 metafile = true
 
 [[files]]
+file = "mods/untitled-duck-mod-forge.pw.toml"
+hash = "d452f5154524b0d960fd13a17e990ebfdf38329e8fd25af6ac4c958a2106939c"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "86275a7226104a3d29d8118ee03f35fba7fbe36653121b60f3992836a20ce2db"
 metafile = true
