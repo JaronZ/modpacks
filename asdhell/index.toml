@@ -45,6 +45,11 @@ hash = "0ec9f87747ad2fb2fc5a832001dcf739876ff1d67e0e4d621ec566817cb6e16c"
 metafile = true
 
 [[files]]
+file = "mods/ae2-crafting-tree.pw.toml"
+hash = "b6eeb7e8fc583f4006fca28727a746272e6a6a7f26c3e1c5ad15653c56c84ced"
+metafile = true
+
+[[files]]
 file = "mods/ae2-jei-integration.pw.toml"
 hash = "0794a45bf4c6cf8c17aebca641c306a7a25334ecb654f959c55ab2c3e81bddd7"
 metafile = true
