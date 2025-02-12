@@ -1,0 +1,13 @@
+name = "Bibliowoods Legacy"
+filename = "bibliowoods-1.21.1-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "257cd3da499796a973e8cbf50174ae232c5f4594"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6114888
+project-id = 1122764

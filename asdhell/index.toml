@@ -130,6 +130,11 @@ hash = "df71b411c439fe95d979caabb3ae410f84e3718c890f02e7efc7bbf11c47add1"
 metafile = true
 
 [[files]]
+file = "mods/bibliowoods-legacy.pw.toml"
+hash = "c0d6de96d9027d2d552a056de87a531dde6b585c3c89d9e3d1a324b57055362a"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "04be35a5d7af74f66030fe85da0b6955906e26f0b048e29e2cc90b5495402b1d"
 metafile = true
