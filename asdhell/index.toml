@@ -370,6 +370,11 @@ hash = "389ed4a50e4fd12156d40d6e5d0aa7fc988196d8fbc3fb10261f4f3523038ee2"
 metafile = true
 
 [[files]]
+file = "mods/merequester.pw.toml"
+hash = "ea2894bd534a11f72738661def54e3296355e399e147bd68ad97c2f167f79e6f"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "23138d6848d524b31ccbd6f32d7295e2e59ef2d851ad0a95a5ddc29888948eec"
 metafile = true
