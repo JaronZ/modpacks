@@ -105,6 +105,11 @@ hash = "994adcafd5a982add4c02d9c636d93bd07501349a79829ec9bdf2d5bb931da90"
 metafile = true
 
 [[files]]
+file = "mods/ato.pw.toml"
+hash = "468fdcf58aa59f3b16885956c93a1c5b45e25583e401235513e4099c12041bad"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "d1be372fd9cb5d1e39017a4c72ddcacfcbdc8d0aecd0b6715786246db0caafd6"
 metafile = true
