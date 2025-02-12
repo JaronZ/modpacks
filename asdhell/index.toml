@@ -35,6 +35,11 @@ hash = "3a8dd242856ad56d3752bf6744aadad3d8113f7399889e7a60d65c45f3b18bb6"
 metafile = true
 
 [[files]]
+file = "mods/actually-additions.pw.toml"
+hash = "9bddfc4d366756aa91a6472508ba14fa4c28e1dda6c4aadbe3ca506430d6c2db"
+metafile = true
+
+[[files]]
 file = "mods/ae2-jei-integration.pw.toml"
 hash = "0794a45bf4c6cf8c17aebca641c306a7a25334ecb654f959c55ab2c3e81bddd7"
 metafile = true
@@ -407,6 +412,11 @@ metafile = true
 [[files]]
 file = "mods/pams-harvestcraft-2-trees.pw.toml"
 hash = "913bff5c93d76ab287916d4f2e0844abbd7124f3dcc84d1c242e85f114e92066"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "b6aadb8e32f440b51cd958b68eee57b9fe5bab26c7cf2f56d0340cf7f593030f"
 metafile = true
 
 [[files]]
