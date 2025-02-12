@@ -1,0 +1,13 @@
+name = "Default Server Properties"
+filename = "default-server-properties-neoforge-21.0.0.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "67ada09b610f86240923141fd935f57a8f869d29"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5433007
+project-id = 676811

@@ -175,6 +175,11 @@ hash = "728964f212cc592a2fc2ae5106e06893a0697568aa9983d164dc112821dc8fc6"
 metafile = true
 
 [[files]]
+file = "mods/default-server-properties.pw.toml"
+hash = "4526bdd844feaeb310c06b2f31fccb2ae401f0d2d3f7885c214d4e36ee8905b9"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "66c076b0fa7ff29d1b4094f4964add34f3e337bc602d9e62b5c8beed3ab31f4f"
 metafile = true
