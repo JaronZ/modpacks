@@ -40,6 +40,11 @@ hash = "9bddfc4d366756aa91a6472508ba14fa4c28e1dda6c4aadbe3ca506430d6c2db"
 metafile = true
 
 [[files]]
+file = "mods/addonslib.pw.toml"
+hash = "0ec9f87747ad2fb2fc5a832001dcf739876ff1d67e0e4d621ec566817cb6e16c"
+metafile = true
+
+[[files]]
 file = "mods/ae2-jei-integration.pw.toml"
 hash = "0794a45bf4c6cf8c17aebca641c306a7a25334ecb654f959c55ab2c3e81bddd7"
 metafile = true
@@ -322,6 +327,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "6e1eac80000f4ad2e8fb2abf2f0d4d10e11a8383bb1800d337e13184f6a18ca9"
+metafile = true
+
+[[files]]
+file = "mods/macaws-biomes-o-plenty.pw.toml"
+hash = "c569ebb526589e1a266db9d3be0599e04ddb5ae1aae1281dfeead43a13f39941"
 metafile = true
 
 [[files]]

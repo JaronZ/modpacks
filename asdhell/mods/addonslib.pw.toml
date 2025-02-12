@@ -1,0 +1,13 @@
+name = "AddonsLib"
+filename = "addonslib-neoforge-1.21.1-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cfdfb0b033e0167ab80a7bbff11b5d0bbc44481e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6169416
+project-id = 1090999
