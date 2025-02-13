@@ -1,0 +1,13 @@
+name = "Ube's Delight"
+filename = "ubesdelight-neoforge-1.21.1-0.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f5aebaddfff3d24f2bedf63f3da9fa290f82815e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6087387
+project-id = 903894

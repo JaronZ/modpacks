@@ -690,6 +690,11 @@ hash = "7d50035fd4872855751c468f38eb1f76dc38abcf43d446fc7f370de9c25b4608"
 metafile = true
 
 [[files]]
+file = "mods/ubes-delight.pw.toml"
+hash = "9bb87a05ce9445f6011cd81444ed35a23bdeec12bf6a182c7109c9ecad5bafd7"
+metafile = true
+
+[[files]]
 file = "mods/untitled-duck-mod-forge.pw.toml"
 hash = "d452f5154524b0d960fd13a17e990ebfdf38329e8fd25af6ac4c958a2106939c"
 metafile = true
