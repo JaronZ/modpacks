@@ -445,6 +445,11 @@ hash = "849fc595156d9feaf5b38762fd0d6bea08e9e5b24071cf80f58e4f697639e631"
 metafile = true
 
 [[files]]
+file = "mods/more-delight-forge.pw.toml"
+hash = "4752b2887119c1b7f0ca7ffc9cbf2aa8cbc1ed5ef7f77000a40b20648b827310"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "b5be9033308bb88924ddbc0eb95011a6ad1674099f0db976ab5e05a28afc4971"
 metafile = true
