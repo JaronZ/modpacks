@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-server-properties.pw.toml"
-hash = "4526bdd844feaeb310c06b2f31fccb2ae401f0d2d3f7885c214d4e36ee8905b9"
+hash = "4926934b4fab2e326db666f82b2f4a2ff2a9c2f6b2bbcee3be85e90f7d79b5b1"
 metafile = true
 
 [[files]]
@@ -381,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "85c5a86eda68b6da7719e38a7e13c114b5cb3671629d55afb71242d0938e4ddc"
+hash = "25d89828c8578b8725685cdcb52f81986b4de6c7dec0fe7ff79f98554f84e63c"
 metafile = true
 
 [[files]]
@@ -646,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
-hash = "05953528b550760efecc9834796d90177e09bd0d231ce814b43578e386468a73"
+hash = "40e1fdc8c58f72bb947b978a773cf963b2d28bb49832500c2bd886f7ac6629bb"
 metafile = true
 
 [[files]]
