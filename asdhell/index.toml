@@ -245,6 +245,11 @@ hash = "abeec141489427fa86618399e93dbe82fbd26fdfb3b0aaad923264d2731419fd"
 metafile = true
 
 [[files]]
+file = "mods/dumplings-delight-rewrapped.pw.toml"
+hash = "a3cf2c80e17e0128e02be9b0eb05f71bd6730c72affd5e874d939554235ea8b2"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-view.pw.toml"
 hash = "34f59271fa56d359df800d96973f534b88764785fd1cc80b0e1fc0e811a7d1ac"
 metafile = true
