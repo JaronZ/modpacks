@@ -175,6 +175,11 @@ hash = "fe58ce8d8e88c67c395d76a0551d38fa59459e24fbb8ba85015f67d8fe2cc0ee"
 metafile = true
 
 [[files]]
+file = "mods/christmas-delight.pw.toml"
+hash = "1c0aa4ce97caaeeff518e87711dff2769402148d74467f75154bc0e9843e4979"
+metafile = true
+
+[[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
 hash = "dd5d363623f59e8cd06f16e56bcd3b51a8cbfbd5fe52218dc78ed589ebd55efe"
 metafile = true
