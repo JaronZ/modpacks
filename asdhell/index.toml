@@ -455,6 +455,11 @@ hash = "8d8d0dc543f337407d41de099708a300bc388b592a711be8efe19930e24f006a"
 metafile = true
 
 [[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "60959e2d411a9a57e1eb3f64d75761ee9728eb1e480e3911d6714de71c2bf51f"
+metafile = true
+
+[[files]]
 file = "mods/openblocks-elevator.pw.toml"
 hash = "8f291cd039e81be325975c8943d8d2d12e95cd2f55873ed36c6561a77fce8480"
 metafile = true
