@@ -585,6 +585,11 @@ hash = "cd6d5b32b5998752eedc0f86526567099435f0eb6c891097969583966fb5f303"
 metafile = true
 
 [[files]]
+file = "mods/storage-delight-forge.pw.toml"
+hash = "d3e7bb1d8f796d237a9c14e93cb33495c5a8cc778caf0a6ce02e7e1d729ed02e"
+metafile = true
+
+[[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "79bb786ef9f304c47703a8b14165dd83ea0d0689d30c8cb3ac231b1088413856"
 metafile = true
