@@ -105,6 +105,11 @@ hash = "963ba9f6927647a2a6debc8261e71d33d8bc7fb7b467c1a96f6324fdbc69f31f"
 metafile = true
 
 [[files]]
+file = "mods/ars-nouveaus-flavors-delight.pw.toml"
+hash = "458cccfd6b704904f386537c096162d7b1d6c8fc60b6fdbd59723d7ffeb4a754"
+metafile = true
+
+[[files]]
 file = "mods/athena.pw.toml"
 hash = "994adcafd5a982add4c02d9c636d93bd07501349a79829ec9bdf2d5bb931da90"
 metafile = true
