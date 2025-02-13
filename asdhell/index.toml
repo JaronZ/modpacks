@@ -515,6 +515,11 @@ hash = "e113a523a10dfc48b6c8c57628ab163f846637bcd03f58b67ec52eac90a9c18a"
 metafile = true
 
 [[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "330eae6dd751b70d4761f5fb556bc476f693549f3eb42ff7f441e1cd5bfe3cfb"
+metafile = true
+
+[[files]]
 file = "mods/prickle.pw.toml"
 hash = "ecc090065d2c21b21a2669bfa659bd052706c52b315f2d8d7d1285ebc294e1ba"
 metafile = true
