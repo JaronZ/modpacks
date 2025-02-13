@@ -275,6 +275,11 @@ hash = "91bd23dd592b8587d094b5953eba29ec6529c1828bd3c85cf0ef6786f1be9e3b"
 metafile = true
 
 [[files]]
+file = "mods/fruits-delight.pw.toml"
+hash = "43d921dc2c78ee0d4d8141af4a0b31cdf3a1415f41b16be831d6e6d2dfa8bdec"
+metafile = true
+
+[[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
 hash = "6c5946729c1d35cabc554febb99b4b10ef38800b47fbfe773834d65ee795ff72"
 metafile = true
