@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "2d06664aa5261184037f060b8f4d8a4bca97edac77fe112d624952e5cbebf12a"
+hash = "aa814695dd3a88ac21371351d4003acc6834ef4f1c32711f2f135284ce088677"
 metafile = true
 
 [[files]]
@@ -362,6 +362,11 @@ metafile = true
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "678a73946ad0708c24ee921f168a0cda9b410ce260a814f845f0223d8d861b57"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "a5beeedb63f9d7e1ec9642fea701dd9e987f25b687ac5254aca71678ba0a6b38"
 metafile = true
 
 [[files]]
