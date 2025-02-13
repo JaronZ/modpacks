@@ -130,6 +130,11 @@ hash = "7d3beb01c8698cfc8587666a2f27dd95423d3f3a881a4f706fe162c751ea3c9d"
 metafile = true
 
 [[files]]
+file = "mods/barbeques-delight.pw.toml"
+hash = "243f83fc39dbb7454498a7f61b2758a0c041568876b21c57c12187a1fabd4645"
+metafile = true
+
+[[files]]
 file = "mods/bibliocraft-legacy.pw.toml"
 hash = "df71b411c439fe95d979caabb3ae410f84e3718c890f02e7efc7bbf11c47add1"
 metafile = true
