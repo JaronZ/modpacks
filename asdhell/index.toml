@@ -380,6 +380,11 @@ hash = "932c985b60d1ad9defb6544fb5aa7b3490be7b6497dc7537b640d2ee060275fa"
 metafile = true
 
 [[files]]
+file = "mods/irisshaders.pw.toml"
+hash = "85c5a86eda68b6da7719e38a7e13c114b5cb3671629d55afb71242d0938e4ddc"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "8c67995762d429c4b4ef21e540597a7cf985462485ed53762a9643d88e694c93"
 metafile = true
