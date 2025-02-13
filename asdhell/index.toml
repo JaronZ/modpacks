@@ -190,6 +190,11 @@ hash = "6da19e35668bad6ca56cbdfce582cb04b6312ca3e2b35670fbe323ff5ff2f80e"
 metafile = true
 
 [[files]]
+file = "mods/corn-delight.pw.toml"
+hash = "eb46787baccf2afa4491527975ba21632571daee7c7ee705db2d305c40dd925a"
+metafile = true
+
+[[files]]
 file = "mods/cuisine-delight.pw.toml"
 hash = "2853d2a4c80598a2cca2877fd279ea62703212380207c23875d9c6885825ff56"
 metafile = true
@@ -462,6 +467,11 @@ metafile = true
 [[files]]
 file = "mods/more-delight-forge.pw.toml"
 hash = "4752b2887119c1b7f0ca7ffc9cbf2aa8cbc1ed5ef7f77000a40b20648b827310"
+metafile = true
+
+[[files]]
+file = "mods/mysterious-mountain-lib.pw.toml"
+hash = "935b9d4a98270c9e5a0b54acd88201128a4f9b8bdd11bf84b95722f6dd059a34"
 metafile = true
 
 [[files]]
