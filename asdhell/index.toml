@@ -195,6 +195,11 @@ hash = "2853d2a4c80598a2cca2877fd279ea62703212380207c23875d9c6885825ff56"
 metafile = true
 
 [[files]]
+file = "mods/cultural-delights.pw.toml"
+hash = "cd6e0cc483152bac279296bcded6e6a9a4087efcc23b64b19f18991989cbff38"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "92d8711662b4e3fd42a57254571aca9f0b33a10bb7492a8fba59b22e78f688e6"
 metafile = true
