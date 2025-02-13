@@ -590,6 +590,11 @@ hash = "37b4995a54dac426c6b4d68db86b358d99012fe3c0317ffdf555b6fb9e7078d1"
 metafile = true
 
 [[files]]
+file = "mods/rustic-delight.pw.toml"
+hash = "c3362605b857a7f5d6b5f094f213e9fddf46b85d10135a1cd56b983592881620"
+metafile = true
+
+[[files]]
 file = "mods/sawmill.pw.toml"
 hash = "14a56d9eedd31713955e841ec9dcda1d4889c41726671b9477c5f6ebb5900448"
 metafile = true
