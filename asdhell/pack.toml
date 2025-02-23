@@ -1,12 +1,12 @@
 name = "FullMash"
 author = "Jaron Zijlstra"
-version = "0.3.0"
+version = "0.3.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2b224af22494132769e94d1ee9394deee9acf1e4ed50b5b0c55e99e47b3d5f82"
+hash = "e03ae6c86fd59516c0e2d356c629a555c609c5b8dc71274409a2f5082a4f7cab"
 
 [versions]
 minecraft = "1.21.1"
