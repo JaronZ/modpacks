@@ -420,6 +420,11 @@ hash = "8d228f190aeba34dec7759072f966e9a2b0f9485308c97bc747f6eee075ceeb2"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "b2e4e9c22fa6dbdedf14fefc64ae45ab6354ff00246e8c950d720ea9198eb75e"
+metafile = true
+
+[[files]]
 file = "mods/leaky.pw.toml"
 hash = "ca0f09b460fe950fa6157e08718e3b63d3fae97be8700ddbd4d1c9e7bd3e65d2"
 metafile = true
@@ -617,6 +622,11 @@ metafile = true
 [[files]]
 file = "mods/replanting-crops.pw.toml"
 hash = "4ae962c67a992bd754635843eba24138419b610d7dad3af9595bea379e266d46"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "9dfeb4b87e376aacf809236ade964c2e37943aaff4d7a5774442f7cca52b76de"
 metafile = true
 
 [[files]]
