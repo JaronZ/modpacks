@@ -1,0 +1,13 @@
+name = "SeasonHUD"
+filename = "seasonhud-neoforge-1.21.4-1.12.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "2adb831755d693e83cec1be92ab2afb473693a84"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6211940
+project-id = 690971
