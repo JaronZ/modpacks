@@ -7,3 +7,11 @@
 
 # Exclude Changelog
 /CHANGELOG.release.md
+
+# KubeJS
+/package.json
+/node_modules/
+/yarn.lock
+/kubejs/global.d.ts
+/.yarn
+/.yarnrc.yml

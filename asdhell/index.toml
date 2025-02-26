@@ -25,6 +25,18 @@ file = "defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt"
 hash = "f99feb117be3154bc935d941116d667c2992a4dc3929d0d329d349f7d0e96416"
 
 [[files]]
+file = "kubejs/server_scripts/ie-sawmill-logs.js"
+hash = "a51d7117ad53ecc5fbe58c88ebf1edf89f4fe00dfad81f786d67932ae2cc8bba"
+
+[[files]]
+file = "kubejs/startup_scripts/immersive-engineering.js"
+hash = "03be27858e48b66ba3d22f0f7d743ac0ce148220e9d1faf540370551f7355449"
+
+[[files]]
+file = "kubejs/startup_scripts/util.js"
+hash = "6bbbafddcf920f22445333b1390b70461ed87a7b4a4430ec4c2874896c9cd603"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "5e10f800888e83b529abeaab8b59fc0959cff138793853834aa55ea9298393ee"
 metafile = true
