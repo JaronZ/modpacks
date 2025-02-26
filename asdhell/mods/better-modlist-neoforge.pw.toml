@@ -1,0 +1,13 @@
+name = "Better Modlist [(Neo)Forge]"
+filename = "better_modlist-1.1.13.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "a29334b2d96d25cb60252dd51e1f9ffb0fdf486b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6123813
+project-id = 1089803

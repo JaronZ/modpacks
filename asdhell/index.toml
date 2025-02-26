@@ -152,6 +152,11 @@ hash = "243f83fc39dbb7454498a7f61b2758a0c041568876b21c57c12187a1fabd4645"
 metafile = true
 
 [[files]]
+file = "mods/better-modlist-neoforge.pw.toml"
+hash = "2fbeba00c37304670db095e9645a5522c503ed29038c847ec47e280125bf17ef"
+metafile = true
+
+[[files]]
 file = "mods/bibliocraft-legacy.pw.toml"
 hash = "b5e98ce8f86ba5f209e408de781d6926bb079dd48f4303ebb3f0d16848eaed66"
 metafile = true
