@@ -217,6 +217,11 @@ hash = "cb06c87e134c04acb7671388ccc25b5618a0441c524a3973a4926d7c94af7e02"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "29c12984642ee56b4a2c933f34c4605ee1b65d356da3d9d60074ca3d49e6df72"
+metafile = true
+
+[[files]]
 file = "mods/corn-delight.pw.toml"
 hash = "eb46787baccf2afa4491527975ba21632571daee7c7ee705db2d305c40dd925a"
 metafile = true
@@ -659,6 +664,11 @@ metafile = true
 [[files]]
 file = "mods/sawmill.pw.toml"
 hash = "0304df3a7f3622fce95cb1b4cecda02cc5562c6f8b4f0e591abb2b7c3e9f48a6"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "b210b54498abff891f524a0ce32b7b81bfc88043604065bd4ece9e71c36427f4"
 metafile = true
 
 [[files]]
