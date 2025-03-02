@@ -8,6 +8,7 @@ Modpacks voor ASDHell Minecraft server
 #### Utility
 
 - [Remove Reloading Screen](https://www.curseforge.com/minecraft/mc-mods/rrls)
+- [Fuel Goes Here](https://www.curseforge.com/minecraft/mc-mods/fuelgoeshere)
 
 ### Shaders
 
