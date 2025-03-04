@@ -467,6 +467,11 @@ hash = "74e48fe428d18a31490b957a9f3ea8fa580843f49efd3b499903a35322c5cf2e"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "22c24e577935bbbc2567b6c70961112aec68555ef2a91de02c3ff95050716c0c"
+metafile = true
+
+[[files]]
 file = "mods/justenoughbreeding.pw.toml"
 hash = "6d27595604d79e5c171d70b2b688c5045b44270ea76a5b63c53787c9a2ade832"
 metafile = true
