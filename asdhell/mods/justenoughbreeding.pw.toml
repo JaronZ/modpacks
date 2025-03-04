@@ -1,0 +1,18 @@
+name = "Just Enough Breeding (JEBr)"
+filename = "justenoughbreeding-neoforge-1.21-1.21.1-1.5.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "f7408fc2086280cceac504a8115eca19f74fcc76"
+mode = "metadata:curseforge"
+
+[option]
+optional = true
+default = false
+description = "A JEI/REI/EMI plugin that displays useful breeding information for various mobs."
+
+[update]
+[update.curseforge]
+file-id = 6007770
+project-id = 899386

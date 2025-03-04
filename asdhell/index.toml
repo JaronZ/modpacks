@@ -308,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "f7d59b9c113e58a196089a1b64bfff62347d47d408b71f321d74d1e0a0dd8a8c"
+hash = "e980c642a1a5dc280e34180a87bf5565af87e0383cf153debe2cc34260f7a74e"
 metafile = true
 
 [[files]]
@@ -458,12 +458,17 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "de79ed0f042f0fc6168960d036091ddb820de88389f71726248ba889801eb919"
+hash = "1fa7f0cf8c748e2e15ffa4dcbe29ed37abd0c48b9b0b963787c617f2850af90c"
 metafile = true
 
 [[files]]
 file = "mods/just-enough-immersive-multiblocks.pw.toml"
 hash = "74e48fe428d18a31490b957a9f3ea8fa580843f49efd3b499903a35322c5cf2e"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "6d27595604d79e5c171d70b2b688c5045b44270ea76a5b63c53787c9a2ade832"
 metafile = true
 
 [[files]]
@@ -538,7 +543,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderately-enough-effect-descriptions-meed.pw.toml"
-hash = "81a9f7ab2b9c519969bf051727f2bb1335791f723afbb8dc086060f57ef9c44f"
+hash = "0b8faace08ec3eba3cd09fb14ff66bc1525a4f20c110993a0a13364a3752d1d7"
 metafile = true
 
 [[files]]
