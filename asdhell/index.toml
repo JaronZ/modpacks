@@ -247,6 +247,11 @@ hash = "e9e8fd63fd287b5977a6b170f821a9928425f1e3b90cc56b1df0f164cf31d948"
 metafile = true
 
 [[files]]
+file = "mods/create.pw.toml"
+hash = "d087c8e1cff4dc7f763401dd06eb0c1141ed12fa990a9e39ec7f034e967b87d2"
+metafile = true
+
+[[files]]
 file = "mods/cuisine-delight.pw.toml"
 hash = "2853d2a4c80598a2cca2877fd279ea62703212380207c23875d9c6885825ff56"
 metafile = true
