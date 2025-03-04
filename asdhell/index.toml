@@ -457,6 +457,11 @@ hash = "0e7ace6399c568b58dd873e9bdc293f377528cf75eb48f4d60077cc7caa85ca8"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "de79ed0f042f0fc6168960d036091ddb820de88389f71726248ba889801eb919"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-immersive-multiblocks.pw.toml"
 hash = "74e48fe428d18a31490b957a9f3ea8fa580843f49efd3b499903a35322c5cf2e"
 metafile = true
