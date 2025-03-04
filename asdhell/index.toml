@@ -113,12 +113,12 @@ metafile = true
 
 [[files]]
 file = "mods/ars-elemental.pw.toml"
-hash = "c5437b5d7a85c6c246269fba6431cf01277323d3a492b6ee893f20a27464560e"
+hash = "c2bcde3b3b26b29f4f89819a5cc9ff6e10f8c3fb84c7c28c78cb114c0c3d3a22"
 metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "73d90e2151cf92354a6e784ba4b3f07c3cf96a5b40683c435c6a8a1a8e00af15"
+hash = "3ef601f5561312fbd9adb10bb2f2339fce1f9d46968b2d783eccfc3298c042ce"
 metafile = true
 
 [[files]]
@@ -158,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-modlist-neoforge.pw.toml"
-hash = "2fbeba00c37304670db095e9645a5522c503ed29038c847ec47e280125bf17ef"
+hash = "2d7a079970429b95f5f4232c2af74b86541c4a0e165a31a1eda8b55543cb08be"
 metafile = true
 
 [[files]]
@@ -178,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "aa53aca2f9ab5f0fec770f49072c045450e97f568087fee765ab7e03b0a3f74b"
+hash = "9f66cc3ef8be775b725d04b0782e452657a325f74d6c3add320b4d25e62fde45"
 metafile = true
 
 [[files]]
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisel-reborn.pw.toml"
-hash = "fe58ce8d8e88c67c395d76a0551d38fa59459e24fbb8ba85015f67d8fe2cc0ee"
+hash = "68491da736544d37237f93fe9d237f37404e0d5d4dd4c367f66f5ffec6aa2027"
 metafile = true
 
 [[files]]
@@ -368,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/fruits-delight.pw.toml"
-hash = "10e6216889a468d202183be603efb3a0ba9b49b18766b546686e77b4db8a0fc1"
+hash = "56b8cc46b1aba6a7ddc8b43d9bb94408cce9df15db85351b57fc8df09fb29fd1"
 metafile = true
 
 [[files]]
@@ -388,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-xmod-compat.pw.toml"
-hash = "744a417599abb68cdd7f37cce83b46e7e62c3653c6def345d99602d60444bb83"
+hash = "a0861e228ee5620c0ed0a2615db8732e1e29b3e4da0575528e892bd3d63fb698"
 metafile = true
 
 [[files]]
@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-paths-and-pavings.pw.toml"
-hash = "800e8416e1fbf50d1dbcf726c3cc18a1c0611338b06b24c2c837235fc8aea55a"
+hash = "86bd41bf12d33159b4b42a9711ce927614e104bf927dcf5b639bf97c89a3fe1d"
 metafile = true
 
 [[files]]
@@ -708,7 +708,7 @@ metafile = true
 
 [[files]]
 file = "mods/rustic-delight.pw.toml"
-hash = "638f09aa4d355418d42ac38f6256fd6bc3055613e90f3521cb424df2d8f53179"
+hash = "58b8aacd34641b96a4a47dc39f5ee1f1a04cd9b9e326b106717ccc2cc427368f"
 metafile = true
 
 [[files]]
@@ -723,12 +723,12 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud.pw.toml"
-hash = "2c57a6671148e6564eb0f2d3889169ee999b931faa0c2a3e28cbfb0bc858d010"
+hash = "8b89a8573af03167aafab72c378cb3acdae2cbc11b6ada920efba12bf52c2091"
 metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "291af8934f4e04a2c4ec9abb69f59bc8b56066be47658d432856b1d6470cdfb6"
+hash = "a145c189647c639ddb5d6ea0efb9042506fe398f0e7c458746ad8b85ed58f649"
 metafile = true
 
 [[files]]
