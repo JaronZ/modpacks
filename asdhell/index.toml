@@ -527,6 +527,11 @@ hash = "ea2894bd534a11f72738661def54e3296355e399e147bd68ad97c2f167f79e6f"
 metafile = true
 
 [[files]]
+file = "mods/moderately-enough-effect-descriptions-meed.pw.toml"
+hash = "81a9f7ab2b9c519969bf051727f2bb1335791f723afbb8dc086060f57ef9c44f"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "996bdd8de2f3959c2ab61f03d0c86cfe131d54c6171407cbd52044f0c3104b85"
 metafile = true
