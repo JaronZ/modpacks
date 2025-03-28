@@ -11,7 +11,7 @@ on:
       modpack:
         description: 'Path to the modpack directory'
         required: false
-        default: 'asdhell'
+        default: 'fullmash'
         type: string
   workflow_call:
     inputs:

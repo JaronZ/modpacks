@@ -18,7 +18,7 @@ jobs:
         with:
           sparse-checkout: .github/labels.yml
           sparse-checkout-cone-mode: false
-          repository: JaronZ/asdhell
+          repository: JaronZ/modpacks
       - name: Run Label Sync
         uses: crazy-max/ghaction-github-labeler@31674a3852a9074f2086abcf1c53839d466a47e7 # v5 
         with:
