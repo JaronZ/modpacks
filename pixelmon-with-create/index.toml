@@ -15,6 +15,11 @@ hash = "be9cb0a91ecd3300fc4ea7c94671824e8dee5d255afef745fcf3c18cf0f2e046"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "bc181133014f217351417fd3ef0bbaf406e33f9a3cf6a381e9029995cd6563b9"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "df3bfbcf9ddf833816d82e03cb9cb5dd4055b2b16fc46c69dfd73b9a8d044719"
 metafile = true
