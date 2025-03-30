@@ -5,6 +5,14 @@ assignees: ["jaronz", "liekevk"]
 title: "[MOD] "
 
 body:
+  - type: input
+    attributes:
+      label: Modpack
+      description: To which modpack do you want the mod added?
+      placeholder: "Fullmash / Pixelmon with Create"
+    validations:
+      required: true
+
   - type: dropdown
     id: users
     attributes:

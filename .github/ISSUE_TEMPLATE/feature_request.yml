@@ -11,3 +11,11 @@ body:
       description: Describe the feature
     validations:
       required: true
+
+  - type: input
+    attributes:
+      label: Modpack
+      description: To which modpack(s) should this feature be added?
+      placeholder: "Fullmash / Pixelmon with Create"
+    validations:
+      required: true
