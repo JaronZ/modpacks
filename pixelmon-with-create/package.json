@@ -1,0 +1,11 @@
+{
+  "name": "temp",
+  "version": "1.0.0",
+  "author": "@jaronz",
+  "license": "All Rights Reserved",
+  "private": true,
+  "packageManager": "yarn@4.8.1",
+  "dependencies": {
+    "typescript": "^5.8.2"
+  }
+}
