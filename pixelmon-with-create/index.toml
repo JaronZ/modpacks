@@ -1,6 +1,15 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/almostunified/unify.json"
+hash = "c3b003e678c904eea33f041a881a573667314e5ae47021b8ad47666b7f70e170"
+
+[[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "6c1abc7203698f420023a1655bc803113babd2dc00b2ced0e071de8b46147b5a"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "efb8a4921c466e737afaa484eca9aedc55c4be1d5647a3b447f961d66482faaf"
 metafile = true
