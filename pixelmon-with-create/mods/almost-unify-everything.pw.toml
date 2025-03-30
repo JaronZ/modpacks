@@ -1,0 +1,13 @@
+name = "Almost Unify Everything"
+filename = "unifyeverything-1.20.1-1.0.2.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9756781358351f03410a98ec3584cd731589c282"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5829724
+project-id = 1119261
