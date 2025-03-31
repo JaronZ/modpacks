@@ -1,4 +1,4 @@
-# To be named
+# LumioseCraft
 
 Fun Pixelmon modpack with Create for automation
 
