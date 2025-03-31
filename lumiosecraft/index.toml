@@ -35,6 +35,11 @@ hash = "83ba38ab1e5b583227e9d37b8fea91ac1fcb4e2f67ba86800c5d7aa4024d2993"
 metafile = true
 
 [[files]]
+file = "mods/boat-item-view-forge.pw.toml"
+hash = "c478c2e57db34ec1ef9a18e5b61acc5c9876b0e420c35f3d2faa9aaf2ef8fe44"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "df3bfbcf9ddf833816d82e03cb9cb5dd4055b2b16fc46c69dfd73b9a8d044719"
 metafile = true
