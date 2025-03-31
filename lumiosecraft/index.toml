@@ -85,6 +85,11 @@ hash = "29a18678ccd0e084cac0e47b136f348ba2efa610967cdb83a186be718323220c"
 metafile = true
 
 [[files]]
+file = "mods/create-misc-and-things.pw.toml"
+hash = "3e7cc89bf66a99f4faf0758b4bbc8af7110d05bcd1de464f9cf554f485654cef"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "04eff00e4383097d9809dec31ab08976a4516fd5a2fe348b88a532507f68e6ba"
 metafile = true
