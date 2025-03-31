@@ -45,6 +45,11 @@ hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
 metafile = true
 
 [[files]]
+file = "mods/botany-pots-pixelmon-compat.pw.toml"
+hash = "639b1fc9b54463a709a65a7284d381ecfaff8244c1d2f5bd460fbc956e52bf66"
+metafile = true
+
+[[files]]
 file = "mods/botany-pots.pw.toml"
 hash = "737ed88644dfdcad286183bfb1856878fc2bc0682739d514837cf01aa28fc017"
 metafile = true
