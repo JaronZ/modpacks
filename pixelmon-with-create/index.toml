@@ -25,6 +25,11 @@ hash = "d64d02d240575e58a4b2ee8794a60f67f053d1fd675dfbd280b2bb8c3438fb93"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "70d3ae93a9064f6885d57fc2adece2ea0f03dcc8f3077a08bb3aedf9c59630ce"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "df3bfbcf9ddf833816d82e03cb9cb5dd4055b2b16fc46c69dfd73b9a8d044719"
 metafile = true
