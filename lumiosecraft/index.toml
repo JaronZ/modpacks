@@ -40,6 +40,16 @@ hash = "c478c2e57db34ec1ef9a18e5b61acc5c9876b0e420c35f3d2faa9aaf2ef8fe44"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "737ed88644dfdcad286183bfb1856878fc2bc0682739d514837cf01aa28fc017"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "df3bfbcf9ddf833816d82e03cb9cb5dd4055b2b16fc46c69dfd73b9a8d044719"
 metafile = true
