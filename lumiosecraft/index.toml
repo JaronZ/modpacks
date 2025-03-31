@@ -25,6 +25,11 @@ hash = "d64d02d240575e58a4b2ee8794a60f67f053d1fd675dfbd280b2bb8c3438fb93"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "e02edad65b21bdaa914dce1237d99e4a4d2d80e497e817e0cd77be87043c80be"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "f6430b103501f2ca9b81b4fe85565bfae1eb4529dd14ce2aacc1e315981c76cf"
 metafile = true
@@ -67,6 +72,11 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "cecf861a5103ad5d9509a3b3b74d395640ca8a5f453839b73ab9be5d3dd3ad2a"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "bc0573b24f5dc93fcc644f7c5ba99d66c18097f874070b2808fd0af7ccb10259"
 metafile = true
 
 [[files]]
