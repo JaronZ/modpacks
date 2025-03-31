@@ -1,0 +1,18 @@
+name = "Crafting Tweaks"
+filename = "craftingtweaks-forge-1.20.1-18.2.5.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "68f0872bde448a1134c4f54946d227160ac0af93"
+mode = "metadata:curseforge"
+
+[option]
+optional = true
+default = false
+description = "Adds useful utility features to crafting like rotation and spread."
+
+[update]
+[update.curseforge]
+file-id = 5623639
+project-id = 233071
