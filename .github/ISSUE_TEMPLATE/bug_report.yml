@@ -16,7 +16,7 @@ body:
     attributes:
       label: Modpack
       description: Which modpack are you using?
-      placeholder: "Fullmash / Pixelmon with Create"
+      placeholder: "Fullmash / LumioseCraft"
     validations:
       required: true
 

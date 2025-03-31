@@ -9,7 +9,7 @@ body:
     attributes:
       label: Modpack
       description: To which modpack do you want the mod added?
-      placeholder: "Fullmash / Pixelmon with Create"
+      placeholder: "Fullmash / LumioseCraft"
     validations:
       required: true
 

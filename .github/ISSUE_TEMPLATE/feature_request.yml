@@ -16,6 +16,6 @@ body:
     attributes:
       label: Modpack
       description: To which modpack(s) should this feature be added?
-      placeholder: "Fullmash / Pixelmon with Create"
+      placeholder: "Fullmash / LumioseCraft"
     validations:
       required: true

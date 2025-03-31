@@ -22,6 +22,6 @@
 - name: "modpack: fullmash"
   description: "This issue or PR is related to the fullmash modpack"
   color: "f0a500"
-- name: "modpack: pixelmon-with-create"
-  description: "This issue or PR is related to the pixelmon-with-create modpack"
+- name: "modpack: lumiosecraft"
+  description: "This issue or PR is related to the lumiosecraft modpack"
   color: "f0a500"
