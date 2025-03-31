@@ -30,6 +30,11 @@ hash = "f6430b103501f2ca9b81b4fe85565bfae1eb4529dd14ce2aacc1e315981c76cf"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "83ba38ab1e5b583227e9d37b8fea91ac1fcb4e2f67ba86800c5d7aa4024d2993"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "df3bfbcf9ddf833816d82e03cb9cb5dd4055b2b16fc46c69dfd73b9a8d044719"
 metafile = true
@@ -37,4 +42,14 @@ metafile = true
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
 hash = "7e9f418a9012dc32a7d804b0eccea148afd6605829ed13536089ad190800c132"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "c46659c3e873e0ca121f5215991ae8bc989132a3fea0c2da9eed0f22a947b2b9"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "fde3d3b1607636100e382dce1bba80ab4608ebfa1ef888a37b86bc8c7dcbafe5"
 metafile = true
