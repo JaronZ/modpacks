@@ -9,10 +9,5 @@
 /CHANGELOG.release.md
 
 # KubeJS
-/package.json
-/node_modules/
-/yarn.lock
 /kubejs/global.d.ts
 /kubejs/tsconfig.json
-/.yarn
-/.yarnrc.yml
