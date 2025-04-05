@@ -1,0 +1,13 @@
+name = "LumioseCraft"
+author = "Jaron Zijlstra"
+version = "0.7.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "690842d1ef2cb10686613da16623f3392d82cd373b03cac1ecc6b14ca44bdaac"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.145"

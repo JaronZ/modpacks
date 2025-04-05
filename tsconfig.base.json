@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "module": "CommonJS",
+        "target": "ESNext",
+        "lib": ["ES6"],
+        "types": ["@jaronline/kubejs-types/globals"],
+        "noEmit": true,
+        "checkJs": true
+    }
+}
