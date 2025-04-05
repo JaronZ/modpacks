@@ -1,0 +1,18 @@
+name = "Crash Assistant"
+filename = "crash_assistant-neoforge-1.6.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "509dafe8251f1a1c12db4d6622dd95b66cfb2cf3"
+mode = "metadata:curseforge"
+
+[option]
+optional = true
+default = true
+description = "Shows a GUI after Minecraft crashes, immediately showing all affected game/launcher logs, crash reports, or hs_err files. Provides one-click solution to upload them, copy link, and perform other actions for easier reporting, debugging, and troubleshooting."
+
+[update]
+[update.curseforge]
+file-id = 6397298
+project-id = 1154099
