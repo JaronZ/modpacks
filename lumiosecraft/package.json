@@ -1,0 +1,11 @@
+{
+  "name": "lumiosecraft",
+  "version": "1.0.0",
+  "author": "@jaronz",
+  "license": "ARR",
+  "private": true,
+  "packageManager": "yarn@4.8.1",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
