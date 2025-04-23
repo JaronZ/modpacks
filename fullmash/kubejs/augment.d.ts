@@ -17,8 +17,4 @@ interface Global {
     ie: IE;
 }
 
-declare global {
-    const global: Global;
-}
-
-export {}
+declare const ServerEvents: any;

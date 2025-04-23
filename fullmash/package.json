@@ -1,11 +1,11 @@
 {
   "name": "fullmash",
-  "version": "0.5.0",
   "author": "@jaronz",
   "license": "MIT",
   "private": true,
   "packageManager": "yarn@4.6.0",
   "devDependencies": {
+    "@jaronline/kubejs-types": "0.1.0-next.39734f1",
     "typescript": "^5.7.3"
   }
 }

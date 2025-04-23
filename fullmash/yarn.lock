@@ -5,10 +5,18 @@ __metadata:
   version: 8
   cacheKey: 10c0
 
+"@jaronline/kubejs-types@npm:0.1.0-next.39734f1":
+  version: 0.1.0-next.39734f1
+  resolution: "@jaronline/kubejs-types@npm:0.1.0-next.39734f1"
+  checksum: 10c0/d5da735ef5fe6d9d8225145640e83b04687dc11040d880bab9db8ac2eb5f6b0d2e71fd01589255d375301c9ce369dfa80dbce1922e11b2e1a870aba4290d5f0d
+  languageName: node
+  linkType: hard
+
 "fullmash@workspace:.":
   version: 0.0.0-use.local
   resolution: "fullmash@workspace:."
   dependencies:
+    "@jaronline/kubejs-types": "npm:0.1.0-next.39734f1"
     typescript: "npm:^5.7.3"
   languageName: unknown
   linkType: soft
