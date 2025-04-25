@@ -9,5 +9,5 @@
 /CHANGELOG.release.md
 
 # KubeJS
-/kubejs/global.d.ts
+/kubejs/augment.d.ts
 /kubejs/tsconfig.json
