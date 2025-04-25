@@ -37,6 +37,34 @@ file = "defaultconfigs/ftblibrary/ftblibrary-client.snbt"
 hash = "35fe0e2c68fa1aefef8430c4ce4a7310d35f34f9796c8bb91b714b7593966b67"
 
 [[files]]
+file = "kubejs/data/refinedstorage/advancement/autocrafting.json"
+hash = "5e3da888ae6f3e662f9a770c976906cfa87036f8eafd0ab7248ea393642bbf26"
+
+[[files]]
+file = "kubejs/data/refinedstorage/advancement/no_cables_required.json"
+hash = "bc9fa5592e397e2d98f3882ea88e6405aeaee8863811e2f67c7955d3b61eb73b"
+
+[[files]]
+file = "kubejs/data/refinedstorage/advancement/portable_storage.json"
+hash = "332d775abf63b1f38e1159056d8de38e3da2883c9c0660637fa678201745737c"
+
+[[files]]
+file = "kubejs/data/refinedstorage/advancement/root.json"
+hash = "ab2b6fe12cea989ad96d0be6260fa85ddd7cb24b677bc5e35d8577e46b0fd89c"
+
+[[files]]
+file = "kubejs/data/refinedstorage/advancement/security.json"
+hash = "8f799731a5c9639b1e5ee377e4fb929beeb1c0817539e63b54cbf7ea24bdb968"
+
+[[files]]
+file = "kubejs/data/refinedstorage/advancement/wireless.json"
+hash = "84e7ed83d489a1f0adf4635be8d99aefc83fb71851086f75ed2a57e85b2796dd"
+
+[[files]]
+file = "kubejs/data/refinedstorage/advancement/wireless_monitoring.json"
+hash = "165402354f9f8cbcba13ac8c9fe8e54aa0204ed57f77648fec244a5ffe1e83c3"
+
+[[files]]
 file = "kubejs/server_scripts/cobblemonboxlink/recipes.js"
 hash = "840b4cb486fec543a8dfec95bc121d369d5664aa1cc4f8a3124e15ab1a2a7256"
 

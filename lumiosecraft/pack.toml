@@ -1,12 +1,12 @@
 name = "LumioseCraft"
 author = "Jaron Zijlstra"
-version = "0.7.0"
+version = "0.7.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "690842d1ef2cb10686613da16623f3392d82cd373b03cac1ecc6b14ca44bdaac"
+hash = "cac795737026e0f78c10f2fc0bd21aeb4ce822c4c08e8212281ad867555ccab2"
 
 [versions]
 minecraft = "1.21.1"
