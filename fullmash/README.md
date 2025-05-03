@@ -15,3 +15,40 @@ Modpacks voor ASDHell Minecraft server
 ### Shaders
 
 - [Complementary Unbound](https://www.curseforge.com/minecraft/shaders/complementary-unbound)
+
+## Contributing
+
+### KubeJS Setup
+
+To get typescript support in kubejs scripts, you will need to generate typings using [ProbeJS](https://www.curseforge.com/minecraft/mc-mods/probejs). To do this, follow the steps below.
+
+1. Download the latest version of this modpack, add ProbeJS to it.
+2. Start up Minecraft with this modpack.
+3. Create a new world and enter it. This should generate KubeJS typings with ProbeJS.
+4. Go into the instance folder of your modpack.
+5. Copy the .probe folder and paste it in the fullmash folder.
+
+The resulting folder structure should look like the following:
+
+```
+fullmash
+├── .probe
+│   ├── classes.txt
+│   ├── client
+│   │   └── probe-types
+│   │       ├── global
+│   │       └── packages
+│   ├── decompiled
+│   ├── images
+│   ├── server
+│   │   └── probe-types
+│   │       ├── global
+│   │       └── packages
+│   └── startup
+│       └── probe-types
+│           ├── global
+│           └── packages
+├── .vscode
+├── src
+└── ...
+```
