@@ -1,9 +1,9 @@
 {
     "compilerOptions": {
         "module": "CommonJS",
-        "target": "ESNext",
-        "lib": ["ES6"],
-        "types": ["@jaronline/kubejs-types/globals"],
+        "target": "ES2015",
+        "lib": ["ES5", "ES2015"],
+        "skipLibCheck": true,
         "noEmit": true,
         "checkJs": true
     }

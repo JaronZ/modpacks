@@ -1,0 +1,7 @@
+{
+    "extends": "../tsconfig.base.json",
+    "compilerOptions": {
+        "typeRoots": [".probe/client/probe-types"],
+        "baseUrl": ".probe/client/probe-types"
+    }
+}

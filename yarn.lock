@@ -5,18 +5,10 @@ __metadata:
   version: 8
   cacheKey: 10c0
 
-"@jaronline/kubejs-types@npm:0.1.0-next.f64c645":
-  version: 0.1.0-next.f64c645
-  resolution: "@jaronline/kubejs-types@npm:0.1.0-next.f64c645"
-  checksum: 10c0/1d8bb8ec389101ad76044b492de619764e9a299217b8f31548dd7ce211e5030e2099944589654dc38d83210a481c73b8e3308f0f3f0c93ef42b2cddc6a07efd1
-  languageName: node
-  linkType: hard
-
 "modpacks@workspace:.":
   version: 0.0.0-use.local
   resolution: "modpacks@workspace:."
   dependencies:
-    "@jaronline/kubejs-types": "npm:0.1.0-next.f64c645"
     typescript: "npm:^5.8.3"
   languageName: unknown
   linkType: soft

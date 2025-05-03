@@ -3,7 +3,6 @@
     "private": true,
     "packageManager": "yarn@4.8.1",
     "devDependencies": {
-        "@jaronline/kubejs-types": "0.1.0-next.f64c645",
         "typescript": "^5.8.3"
     }
 }
