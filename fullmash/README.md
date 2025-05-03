@@ -22,11 +22,12 @@ Modpacks voor ASDHell Minecraft server
 
 To get typescript support in kubejs scripts, you will need to generate typings using [ProbeJS](https://www.curseforge.com/minecraft/mc-mods/probejs). To do this, follow the steps below.
 
-1. Download the latest version of this modpack, add ProbeJS to it.
-2. Start up Minecraft with this modpack.
-3. Create a new world and enter it. This should generate KubeJS typings with ProbeJS.
-4. Go into the instance folder of your modpack.
-5. Copy the .probe folder and paste it in the fullmash folder.
+1. Download the latest version of this modpack.
+2. Enable ProbeJS in the modpack if it hasn't been enabled already.
+3. Start up Minecraft with this modpack.
+4. Create a new world and enter it. This should generate KubeJS typings with ProbeJS.
+5. Go into the instance folder of your modpack.
+6. Copy the .probe folder and paste it in the fullmash folder.
 
 The resulting folder structure should look like the following:
 

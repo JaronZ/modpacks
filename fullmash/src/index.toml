@@ -692,6 +692,11 @@ hash = "e517a8a6abeae0eb0975a716ed732d94fce82b61c5bfdfb457a0167e96ea1022"
 metafile = true
 
 [[files]]
+file = "mods/probejs.pw.toml"
+hash = "2a8dd9366ed60e7040e90c1b87722b14729ffe080e693ef43151dea10d25ed38"
+metafile = true
+
+[[files]]
 file = "mods/railcraft-reborn.pw.toml"
 hash = "9356edfc85cf9a16dd9422ac10ba2823b34bf2ab6168cceb026ce4787733788c"
 metafile = true
