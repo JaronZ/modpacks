@@ -1,10 +1,10 @@
 //priority: 1
 //requires: cobblemon
 
-lcminigames.minigames.set("scrambled", {
-    name: "scrambled",
+lcminigames.minigames.set("generation", {
+    name: "generation",
     type: "chat",
-    currentWord: null,
+    generation: null,
     events: ["chat"],
     timeLimit: global.lcminigames.MINUTE_TICKS * 0.5,
     getRewards() {
@@ -26,27 +26,27 @@ lcminigames.minigames.set("scrambled", {
      * @returns {boolean}
      */
     shouldEnd({ message }) {
-        return message.toLowerCase() === this.currentWord;
+        return message.toLowerCase() == this.generation;
     },
     /**
      * @param {import("dev.latvian.mods.kubejs.server.ServerKubeEvent").$ServerKubeEvent} event
      */
     execute({ server }) {
-        this.currentWord = lcminigames.Pokemon.getRandom().getName().toLowerCase();
-        const scrambled = global.lcminigames.scramble(this.currentWord);
+        const pokemon = lcminigames.Pokemon.getRandom();
+        this.generation = pokemon.gen.toString();
         server.tell(global.lcminigames.createChatFrame(
             "Server Minigame",
-            [`${global.lcminigames.centeredMessage("Unscramble the following pokémon")}\n`,
-            Text.aqua(global.lcminigames.centeredMessage(scrambled))]
+            [`${global.lcminigames.centeredMessage("From what generation is the following pokémon")}\n`,
+            Text.aqua(global.lcminigames.centeredMessage(pokemon.getName()))]
         ));
     },
     end({ server, winner }) {
-        const message = winner ? `§2${winner.displayName.string}§r unscrambled the word` :
-            "No one managed to unscrambled the word";
+        const message = winner ? `§2${winner.displayName.string}§r guessed the generation` :
+            "No one managed to guess the generation";
         server.tell(global.lcminigames.createChatFrame(
             "Server Minigame",
             [`${global.lcminigames.centeredMessage(message)}\n`,
-            global.lcminigames.centeredMessage(`§b${this.currentWord}`)]
+            global.lcminigames.centeredMessage(`§bGeneration ${this.generation}`)]
         ));
         this.currentWord = null;
     }

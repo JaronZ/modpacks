@@ -1,22 +1,23 @@
-//priority: 0
-/** @type {import("dev.latvian.mods.kubejs.util.ScheduledEvents$ScheduledEvent").$ScheduledEvents$ScheduledEvent} */
-let endMinigameTimer;
-/** @type {import("dev.latvian.mods.kubejs.util.ScheduledEvents$ScheduledEvent").$ScheduledEvents$ScheduledEvent} */
-let minigameTimer;
+(function() {
+    /** @type {import("dev.latvian.mods.kubejs.util.ScheduledEvents$ScheduledEvent").$ScheduledEvents$ScheduledEvent} */
+    let endMinigameTimer;
+    /** @type {import("dev.latvian.mods.kubejs.util.ScheduledEvents$ScheduledEvent").$ScheduledEvents$ScheduledEvent} */
+    let minigameTimer;
 
-ServerEvents.loaded(event => {
-    const INTERVAL_TICKS = 20 * 300;
+    ServerEvents.loaded(event => {
+        const INTERVAL_TICKS = global.lcminigames.MINUTE_TICKS * 5;
 
-    endMinigameTimer = event.server.scheduleRepeatingInTicks(INTERVAL_TICKS - 1, () => {
-        global.endMinigame();
+        endMinigameTimer = event.server.scheduleRepeatingInTicks(INTERVAL_TICKS - 1, () => {
+            global.lcminigames.endMinigame({ server: event.server });
+        });
+
+        minigameTimer = event.server.scheduleRepeatingInTicks(INTERVAL_TICKS, () => {
+            global.lcminigames.startMinigame(event);
+        });
     });
 
-    minigameTimer = event.server.scheduleRepeatingInTicks(INTERVAL_TICKS, () => {
-        global.pickMinigame(event.server);
+    ServerEvents.unloaded(() => {
+        endMinigameTimer.clear();
+        minigameTimer.clear();
     });
-});
-
-ServerEvents.unloaded(() => {
-    endMinigameTimer.clear();
-    minigameTimer.clear();
-});
+})();

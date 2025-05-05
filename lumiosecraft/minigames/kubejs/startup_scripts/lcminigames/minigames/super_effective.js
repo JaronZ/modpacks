@@ -1,12 +1,12 @@
 //priority: 1
 //requires: cobblemon
 
-lcminigames.minigames.set("scrambled", {
-    name: "scrambled",
+lcminigames.minigames.set("super_effective", {
+    name: "super_effective",
     type: "chat",
-    currentWord: null,
+    defending: null,
     events: ["chat"],
-    timeLimit: global.lcminigames.MINUTE_TICKS * 0.5,
+    timeLimit: global.lcminigames.MINUTE_TICKS * 0.75,
     getRewards() {
         return [
             { item: Item.of("cobblemon:poke_ball", 3), chance: 5 },
@@ -26,28 +26,27 @@ lcminigames.minigames.set("scrambled", {
      * @returns {boolean}
      */
     shouldEnd({ message }) {
-        return message.toLowerCase() === this.currentWord;
+        return lcminigames.Pokemon.Type.isEffective(message.toLowerCase(), this.defending);
     },
     /**
      * @param {import("dev.latvian.mods.kubejs.server.ServerKubeEvent").$ServerKubeEvent} event
      */
     execute({ server }) {
-        this.currentWord = lcminigames.Pokemon.getRandom().getName().toLowerCase();
-        const scrambled = global.lcminigames.scramble(this.currentWord);
+        this.defending = lcminigames.Pokemon.Type.getRandom();
+        const defendingString = this.defending.join(" / ");
         server.tell(global.lcminigames.createChatFrame(
             "Server Minigame",
-            [`${global.lcminigames.centeredMessage("Unscramble the following pokémon")}\n`,
-            Text.aqua(global.lcminigames.centeredMessage(scrambled))]
+            [`${global.lcminigames.centeredMessage("What type is super effective against the following pokémon")}\n`,
+            Text.aqua(global.lcminigames.centeredMessage(defendingString))]
         ));
     },
     end({ server, winner }) {
-        const message = winner ? `§2${winner.displayName.string}§r unscrambled the word` :
-            "No one managed to unscrambled the word";
+        const message = winner ? `§2${winner.displayName.string}§r Bested the pokémon!` : 
+            "No one managed to beat the pokémon";
         server.tell(global.lcminigames.createChatFrame(
             "Server Minigame",
-            [`${global.lcminigames.centeredMessage(message)}\n`,
-            global.lcminigames.centeredMessage(`§b${this.currentWord}`)]
+            `${global.lcminigames.centeredMessage(message)}`,
         ));
-        this.currentWord = null;
     }
+
 });

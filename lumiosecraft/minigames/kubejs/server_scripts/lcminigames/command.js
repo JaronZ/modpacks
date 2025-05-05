@@ -1,24 +1,13 @@
-//priority: 0
 ServerEvents.commandRegistry(event => {
     const { commands: Commands, arguments: Arguments } = event;
 
     event.register(Commands.literal("minigame")
         .requires(s => s.hasPermission(2))
         .then(Commands.literal("end")
-            .executes(() => minigameEnd())
+            .executes(c => (global.lcminigames.endMinigame({ server: c.source.server }), 1))
         )
         .then(Commands.literal("start")
-            .executes(c => minigameStart(c.source.server))
+            .executes(c => (global.lcminigames.startMinigame(c.source), 1))
         )
     );
-
-    function minigameEnd() {
-        global.endMinigame();
-        return 1;
-    }
-
-    function minigameStart(server) {
-        global.pickMinigame(server);
-        return 1;
-    }
 });
