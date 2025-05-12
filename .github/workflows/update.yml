@@ -18,7 +18,7 @@ jobs:
         id: list_modpacks
         run: |
           modpackFolders=()
-          for folder in *; do
+          for folder in */*; do
             if [ -d "$folder" ]; then
               if [ -e "$folder/pack.toml" ]; then
                 modpackFolders+=("$folder")
