@@ -1,13 +1,13 @@
 name = "Macaw's Biomes O' Plenty"
-filename = "mcwbiomesoplenty-neoforge-1.21.1-1.1.jar"
+filename = "mcwbiomesoplenty-neoforge-1.21.1-1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c13df69b812bc9c96fd205ed5686caa269c04c3f"
+hash = "2b2a8857b14e54d12fdd1537509d492ae0515e91"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6187267
+file-id = 6416531
 project-id = 533382
