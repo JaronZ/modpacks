@@ -9,7 +9,7 @@ mode = "metadata:curseforge"
 
 [option]
 optional = true
-default = false
+default = true
 description = "Needed to load shaders into the game."
 
 [update]
