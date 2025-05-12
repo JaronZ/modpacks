@@ -1,18 +1,17 @@
 name = "Enchantment Descriptions"
-filename = "enchdesc-neoforge-1.21.1-21.1.5.jar"
+filename = "enchdesc-neoforge-1.21.1-21.1.7.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "68bb60c4c4047661b2150534d73b19fbed5e0a16"
+hash = "82119b6b25258bf16399a175a952e06cd9169682"
 mode = "metadata:curseforge"
-
-[option]
-optional = true
-default = false
-description = "Shows enchantment descriptions under the enchantments in tooltips."
 
 [update]
 [update.curseforge]
-file-id = 5824116
+file-id = 6348560
 project-id = 250419
+
+[option]
+optional = true
+description = "Shows enchantment descriptions under the enchantments in tooltips."
