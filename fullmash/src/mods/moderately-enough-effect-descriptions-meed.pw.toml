@@ -1,18 +1,17 @@
 name = "Moderately Enough Effect Descriptions (MEED)"
-filename = "MEED-1.21.1-6.4.jar"
+filename = "MEED-1.21.1-6.7.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "87fde658fe7b13f9e2f307627b81938565477d0b"
+hash = "0728966ac2101572a09af9d3f68451bf71d29d46"
 mode = "metadata:curseforge"
-
-[option]
-optional = true
-default = false
-description = "Shows effect descriptions in JEI."
 
 [update]
 [update.curseforge]
-file-id = 6245728
+file-id = 6389492
 project-id = 918638
+
+[option]
+optional = true
+description = "Shows effect descriptions in JEI."
